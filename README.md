@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=audreytan1127&theme=tokyonight"/>
+</div>
 <!--
 **NRowley/NRowley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
