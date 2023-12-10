@@ -1,11 +1,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nrowley&theme=tokyonight&langs_count=10&layout=donut"/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=nrowley&theme=tokyonight"/>
 
+<img src="https://api.githubtrends.io/user/svg/NRowley/langs?time_range=one_year&theme=dark"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=nrowley&theme=tokyonight"/>
-
-
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/nrowley/langs)](https://githubtrends.io)
+<!--[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/NRowley/langs?time_range=one_year&theme=dark)](https://githubtrends.io)-->
 
 <!--
 **NRowley/NRowley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
