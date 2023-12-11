@@ -1,5 +1,7 @@
-<img src="https://api.githubtrends.io/user/svg/NRowley/langs?time_range=one_year&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nrowley&theme=tokyonight&langs_count=10&layout=donut"/>
+<div class="lang-sats" style="display:flex;flex-direction:row;justify-content:center;flex-wrap:wrap;">
+  <img src="https://api.githubtrends.io/user/svg/NRowley/langs?time_range=one_year&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nrowley&theme=tokyonight&langs_count=10&layout=donut"/>
+</div>
 <img src="https://github-readme-stats.vercel.app/api?username=nrowley&theme=dark"/>
 
 
